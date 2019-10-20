@@ -1,0 +1,45 @@
+
+
+
+******************************************************************************************
+THE RESULT STATISTICS OF USING "vgg" MODEL FOR IMAGE CLASSIFICATION
+******************************************************************************************
+
+Programmer: 	Adeyemi Adedoyin Simeon
+Date: 		10/19/2019 11:14pm
+Program: 		"AI Programming with Python" Nanoprogram Course Project 1 on Udacity
+******************************************************************************************
+
+		RESULT STATISTICS
+******************************************************************************************
+
+	Results:
+	--------
+N IMAGES: 40
+N DOGS IMG: 30
+N NOTDOGS IMG: 10
+N LABEL MATCHES: 35
+N CORRECT DOGS: 30
+N CORRECT BREED: 28
+N CORRECT NON DOG: 10
+
+	Percentages:
+	------------
+PCT CORRECT DOGS: 100.0% 
+PCT CORRECT NOTDOGS: 100.0% 
+PCT CORRECT BREED: 93.33333333333333% 
+PCT CORRECT LABEL MATCHES: 87.5% 
+
+
+	Dog Missclassification Report:
+	------------------------------
+	No dog is missclassified. Every dog was correctly classified.
+
+
+	Breed Missclassification Report:
+	--------------------------------
+Actual Breed Name: great pyrenees		 Missclassified As: kuvasz. 
+Actual Breed Name: beagle		 Missclassified As: walker hound, walker foxhound. 
+
+
+** Total Elapsed Runtime: 0:0:35
